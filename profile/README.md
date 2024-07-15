@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/Re-HLDS">
         <img
-            width="500px"
+            width="200px"
             alt="ReHLDS logo"
             src="https://user-images.githubusercontent.com/5860435/111066129-040e5e00-84f0-11eb-9e1f-7a7e8611da2b.png"
         >

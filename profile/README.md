@@ -1,12 +1,16 @@
-## Hi there 👋
+### About
+The HLDS reverse-engineering community is dedicated to improving Half-Life Dedicated Server (HLDS) and related components through reverse-engineering capabilities.
 
-<!--
+### Our collaborative efforts are focused on:
+- Optimizing the performance and efficiency of HLDS
+- Fix bugs and resolve stability issues
+- Improving HLDS compatibility and support
+- Improving overall functionality and reliability
+- Introducing new features and functionality.
 
-**Here are some ideas to get you started:**
+### Our key projects:
+- ReHLDS - reverse-engineering of the HLDS engine codebase
+- ReGameDLL - reverse engineering of GameDLL (Counter-Strike 1.6 / Condition Zero)
+- Metamod-R - improved revision of the original Metamod
+- ReUnion, ReAPI, ReSemiclip, ReChecker and others - development of different HLDS - modifications and addons.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->

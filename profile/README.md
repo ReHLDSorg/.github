@@ -23,7 +23,7 @@ The HLDS reverse-engineering community is dedicated to improving Half-Life Dedic
 - Improving overall functionality and reliability
 - Introducing new features and functionality.
 
-### Our key projects:
+### Core projects:
 - ReHLDS - reverse-engineering of the HLDS engine codebase
 - ReGameDLL - reverse engineering of GameDLL (Counter-Strike 1.6 / Condition Zero)
 - Metamod-R - improved revision of the original Metamod

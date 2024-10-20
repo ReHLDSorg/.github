@@ -9,6 +9,7 @@
     <img align="left" width="100" height="100" src="https://avatars.githubusercontent.com/u/19829834?s=400&u=831357dc1ae5912297dddd88dc9e996ea0a6da76&v=4">
 
 Welcome to the official ReHLDS GitHub organization! We maintain and develop a family of open-source projects aimed at improving and expanding the experience for Half-Life and Counter-Strike 1.6 dedicated servers. Our projects include reverse-engineered versions of key components, performance optimizations, and custom APIs to enhance modding capabilities.
+
 </p>
 <br>
 
@@ -24,21 +25,6 @@ Welcome to the official ReHLDS GitHub organization! We maintain and develop a fa
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/dreamstalker/rehlds">ReHLDS</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/dreamstalker/rehlds?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/dreamstalker/rehlds/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>Reverse-engineered version of Half-Life Dedicated Server engine with improved performance, important fixes and additional features.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/s1lentq/ReGameDLL_CS">ReGameDLL</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/ReGameDLL_CS?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/s1lentq/ReGameDLL_CS/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>A modified and improved version of the HLDS GameDLL for Counter-Strike 1.6, with bug fixes and new functionality.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/rehlds/metamod-r">Metamod-R</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/rehlds/metamod-r?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/rehlds/metamod-r/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>Fork of the original <a href="http://metamod.org">Metamod</a>, providing better performance optimisations and more pure code.</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/s1lentq/reapi">ReAPI</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/reapi?include_prereleases&style=flat-square"></td>
       <td><img src="https://img.shields.io/github/downloads/s1lentq/reapi/total?style=flat-square" alt="GitHub Releases"></td>
       <td>AMXModX module that provides ReHLDS, ReGameDLL, ReChecker, ReUnion, VoiceTranscoder APIs for use in <a href="https://github.com/alliedmodders/amxmodx">AMXModX</a> plugins development.</td>
@@ -51,7 +37,7 @@ Welcome to the official ReHLDS GitHub organization! We maintain and develop a fa
     <tr>
       <td><a href="https://github.com/s1lentq/reunion">ReUnion</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/reunion?include_prereleases&style=flat-square"></td>
       <td><img src="https://img.shields.io/github/downloads/s1lentq/reunion/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>Metamod plugin created to support compatibility with older versions of the game client protocol (protocol 47). It is an idea sequel of DProto with new functionality for server protection.</td>.
+      <td>Metamod plugin created to support compatibility with older versions of the game client protocol (protocol 47). It is an idea sequel of DProto with new functionality for server protection.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/WPMGPRoSToTeMa/SafeNameAndChat">SafeNameAndChat</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/WPMGPRoSToTeMa/SafeNameAndChat?include_prereleases&style=flat-square"></td>
@@ -81,7 +67,7 @@ Welcome to the official ReHLDS GitHub organization! We maintain and develop a fa
     <tr>
       <td><a href="https://github.com/s1lentq/hitboxtracker">HitBox Tracker</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/hitboxtracker?include_prereleases&style=flat-square"></td>
       <td><img src="https://img.shields.io/github/downloads/s1lentq/hitboxtracker/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>Dev-tool that demonstrates on client-side true position of the hitboxes calculated by server in CS 1.6.</td>
+      <td>Dev-tool that demonstrates on client-side true position of the hitboxes calculated by server in CS 1.6</td>
     </tr>
   </tbody>
 </table>
@@ -109,7 +95,7 @@ We actively manage our projects through GitHub's [Project Boards](https://github
 
 ## 📄 License
 
-All our projects are open-source and licensed under the [GNU General Public License v3.0](LICENSE).
+All our projects are open-source and licensed under the [MIT](LICENSE).
 
 ## 🌐 Join the Discussion
 

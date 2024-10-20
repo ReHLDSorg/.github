@@ -22,55 +22,63 @@ Welcome to the official ReHLDS GitHub organization! We maintain and develop a fa
   <thead>
     <tr>
       <th>Project Name</th>
-      <th>Downloads</th>
       <th>Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/s1lentq/reapi">ReAPI</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/reapi?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/s1lentq/reapi/total?style=flat-square" alt="GitHub Releases"></td>
+      <td><a href="https://github.com/rehlds/rehlds">ReHLDS</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/rehlds/rehlds?include_prereleases&style=flat-square"><br><img src="https://img.shields.io/github/downloads/rehlds/rehlds/total?style=flat-square" alt="GitHub Releases"></td>
+      <td>An improved version of the original HLDS engine, containing many security fixes and performance optimizations. It provides a more stable and enhanced server environment with extended API support for mods and plugins, offering better security and efficiency.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/s1lentq/ReGameDLL_CS">ReGameDLL_CS</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/ReGameDLL_CS?include_prereleases&style=flat-square"><br><img src="https://img.shields.io/github/downloads/s1lentq/ReGameDLL_CS/total?style=flat-square" alt="GitHub Releases"></td>
+      <td>More stable (than official) version of Counter-Strike 1.6 (also Counter-Strike: Condition Zero) game library (mp.dll) with extended API for mods and plugins, enhanced (and fixed).</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/s1lentq/reapi">ReAPI</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/reapi?include_prereleases&style=flat-square"><br><img src="https://img.shields.io/github/downloads/s1lentq/reapi/total?style=flat-square" alt="GitHub Releases"></td>
       <td>AMXModX module that provides ReHLDS, ReGameDLL, ReChecker, ReUnion, VoiceTranscoder APIs for use in <a href="https://github.com/alliedmodders/amxmodx">AMXModX</a> plugins development.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/s1lentq/resemiclip">ReSemiclip</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/resemiclip?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/s1lentq/resemiclip/total?style=flat-square" alt="GitHub Releases"></td>
+      <td><a href="https://github.com/s1lentq/resemiclip">ReSemiclip</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/resemiclip?include_prereleases&style=flat-square"><br><img src="https://img.shields.io/github/downloads/s1lentq/resemiclip/total?style=flat-square" alt="GitHub Releases"></td>
       <td>Metamod plugin controls the ability to pass through players. The module <a href="https://forums.alliedmods.net/showthread.php?t=118322">Semiclip by joaquimandrade</a> was used as a reference.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/s1lentq/reunion">ReUnion</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/reunion?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/s1lentq/reunion/total?style=flat-square" alt="GitHub Releases"></td>
+      <td><a href="https://github.com/s1lentq/reunion">ReUnion</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/reunion?include_prereleases&style=flat-square"><br><img src="https://img.shields.io/github/downloads/s1lentq/reunion/total?style=flat-square" alt="GitHub Releases"></td>
       <td>Metamod plugin created to support compatibility with older versions of the game client protocol (protocol 47). It is an idea sequel of DProto with new functionality for server protection.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/WPMGPRoSToTeMa/SafeNameAndChat">SafeNameAndChat</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/WPMGPRoSToTeMa/SafeNameAndChat?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/WPMGPRoSToTeMa/SafeNameAndChat/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>Metamod plugin, which replaces special characters in player names and chat messages (which can cause bugs).</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/s1lentq/rechecker">ReChecker</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/rechecker?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/s1lentq/rechecker/total?style=flat-square" alt="GitHub Releases"></td>
+      <td><a href="https://github.com/s1lentq/rechecker">ReChecker</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/rechecker?include_prereleases&style=flat-square"><br><img src="https://img.shields.io/github/downloads/s1lentq/rechecker/total?style=flat-square" alt="GitHub Releases"></td>
       <td>Metamod plugin that gives the ability to check client files by their md5 hash.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/s1lentq/revoice">ReVoice</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/revoice?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/s1lentq/revoice/total?style=flat-square" alt="GitHub Releases"></td>
+      <td><a href="https://github.com/s1lentq/revoice">ReVoice</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/revoice?include_prereleases&style=flat-square"><br><img src="https://img.shields.io/github/downloads/s1lentq/revoice/total?style=flat-square" alt="GitHub Releases"></td>
       <td>Metamod plugin that allows voice chat between non-steam and steam clients (for ReHLDS).</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/s1lentq/refreelook">ReFreeLook</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/refreelook?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/s1lentq/refreelook/total?style=flat-square" alt="GitHub Releases"></td>
+      <td><a href="https://github.com/s1lentq/refreelook">ReFreeLook</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/refreelook?include_prereleases&style=flat-square"><br><img src="https://img.shields.io/github/downloads/s1lentq/refreelook/total?style=flat-square" alt="GitHub Releases"></td>
       <td>AMXModX module allows spectator admins to use any camera modes, regardless of the value of `mp_forcecamera` or `mp_forcechasecam` (for ReGameDLL). It is an idea sequel of <a href="https://forums.alliedmods.net/showthread.php?t=100067">Admin Free Look by jim_yang</a>.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/rehlds/relocalizebugfix">ReLocalizeBugFix</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/rehlds/relocalizebugfix?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/rehlds/relocalizebugfix/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>Fixes localization issues in the CS 1.6 server environment.</td>
+      <td><a href="https://github.com/s1lentq/localizebugfix">LocalizeBugFix</a><br>
+      <img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/localizebugfix?include_prereleases&style=flat-square"><br>
+      <img src="https://img.shields.io/github/downloads/s1lentq/localizebugfix/total?style=flat-square" alt="GitHub Releases"></td>
+      <td>Metamod plugin that fixes localization issues in HLDS by preventing or removing invalid characters in text, ensuring clean and correct display of localized messages. Deprecated, was completely replaced by the SafeNameAndChat.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/s1lentq/hitboxtracker">HitBox Tracker</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/hitboxtracker?include_prereleases&style=flat-square"></td>
-      <td><img src="https://img.shields.io/github/downloads/s1lentq/hitboxtracker/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>Dev-tool that demonstrates on client-side true position of the hitboxes calculated by server in CS 1.6</td>
+      <td><a href="https://github.com/WPMGPRoSToTeMa/SafeNameAndChat">SafeNameAndChat</a><br>
+      <img alt="GitHub Release" src="https://img.shields.io/github/v/release/WPMGPRoSToTeMa/SafeNameAndChat?include_prereleases&style=flat-square"><br>
+      <img src="https://img.shields.io/github/downloads/WPMGPRoSToTeMa/SafeNameAndChat/total?style=flat-square" alt="GitHub Releases"></td>
+      <td>Metamod plugin that replaces special characters in player names and chat messages to prevent bugs. It swaps certain characters with similar Unicode alternatives, removes non-printable characters, and trims spaces from the start and end of text for improved safety and consistency. <a href="https://github.com/rehlds/rehlds/issues/328#issuecomment-275837883">Deprecated for ReHLDS sience 2015</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rehlds/relocalizebugfix">ReLocalizeBugFix</a><br>
+      <img alt="GitHub Release" src="https://img.shields.io/github/v/release/rehlds/relocalizebugfix?include_prereleases&style=flat-square"><br>
+      <img src="https://img.shields.io/github/downloads/rehlds/relocalizebugfix/total?style=flat-square" alt="GitHub Releases"></td>
+      <td>An extension of LocalizeBugFix for ReHLDS, aimed at addressing localization-related bugs in the server, <a href="https://github.com/rehlds/rehlds/issues/328#issuecomment-275837883">now deprecated</a> as fixes have been integrated into ReHLDS.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/s1lentq/hitboxtracker">HitBox Tracker</a><br><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/hitboxtracker?include_prereleases&style=flat-square"><br><img src="https://img.shields.io/github/downloads/s1lentq/hitboxtracker/total?style=flat-square" alt="GitHub Releases"></td>
+      <td>A development tool that aimed to demonstrate the true position of hitboxes calculated by the server in CS 1.6. However, it is now outdated (thanks to @Garey27 <a href="https://github.com/Garey27/hitbox_fixer">Hitbox Fixer</a> module) due to inaccuracies in the hitbox position calculations within the display code.</td>
     </tr>
   </tbody>
 </table>

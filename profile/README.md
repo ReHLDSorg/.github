@@ -1,3 +1,6 @@
+> [!CAUTION]  
+> The ReHLDS organization is currently undergoing reconstruction. Please be aware that certain projects may be in transition, and updates may be in progress. We appreciate your understanding and patience during this time.
+
 <p align="left">
     <a href="https://github.com/orgs/rehlds/repositories"><img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/rehlds?style=flat-square"></a>
     <a href="https://t.me/ReHLDS_Community">

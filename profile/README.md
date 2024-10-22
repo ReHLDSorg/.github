@@ -1,3 +1,6 @@
+> [!TIP]
+> All project plans, iterations, and ongoing work are managed and tracked through our GitHub Boards. You can view these boards to get a clear understanding of our project's goals, current progress, and future direction. This provides transparency into the development process and helps the community stay informed about key initiatives and milestones. To learn more about our project’s plans and iterations, visit our [GitHub Boards](https://github.com/orgs/ReHLDS/projects).
+
 > [!CAUTION]  
 > The ReHLDS organization is currently undergoing reconstruction. Please be aware that certain projects may be in transition, and updates may be in progress. We appreciate your understanding and patience during this time.
 

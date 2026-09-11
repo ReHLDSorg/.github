@@ -78,6 +78,10 @@ Welcome to the official ReHLDS GitHub organization! We maintain and develop a fa
       <td><a href="https://github.com/rehlds/hitboxtracker">HitBox Tracker</a><br><a href="https://github.com/rehlds/hitboxtracker/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/rehlds/hitboxtracker?include_prereleases&style=flat-square"></a><br><img src="https://img.shields.io/github/downloads/rehlds/hitboxtracker/total?style=flat-square" alt="GitHub Releases"></td>
       <td>A development tool that aimed to demonstrate the true position of hitboxes calculated by the server in CS 1.6. However, it is now outdated (thanks to <a href="https://github.com/Garey27">@Garey27</a> <a href="https://github.com/Garey27/hitbox_fixer">Hitbox Fixer</a> module) due to inaccuracies in the hitbox position calculations within the display code.</td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/rehlds/reamxmodx">ReAMXModX</a><br><a href="https://github.com/rehlds/reamxmodx/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/rehlds/reamxmodx?include_prereleases&style=flat-square"></a><br><img src="https://img.shields.io/github/downloads/rehlds/reamxmodx/total?style=flat-square" alt="GitHub Releases"></td>
+      <td>A fork of <a href="https://github.com/alliedmodders/amxmodx">AMX Mod X</a> that added ReHLDS and ReGameDLL API support to the core and to several modules before upstream had it. Obsolete — upstream AMX Mod X supports ReHLDS natively, and this fork never published a release.</td>
+    </tr>
   </tbody>
 </table>
 

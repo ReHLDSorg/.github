@@ -64,15 +64,15 @@ Welcome to the official ReHLDS GitHub organization! We maintain and develop a fa
     </tr>
     <tr>
       <td><a href="https://github.com/s1lentq/localizebugfix">LocalizeBugFix</a><br><a href="https://github.com/s1lentq/localizebugfix/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/s1lentq/localizebugfix?include_prereleases&style=flat-square"></a><br><img src="https://img.shields.io/github/downloads/s1lentq/localizebugfix/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>Metamod plugin that fixes localization issues in HLDS by preventing or removing invalid characters in text, ensuring clean and correct display of localized messages. Deprecated, was completely replaced by the SafeNameAndChat.</td>
+      <td>Metamod plugin that fixes localization issues in HLDS by preventing or removing invalid characters in text, ensuring clean and correct display of localized messages. The repository was archived in 2015; it has been completely replaced by SafeNameAndChat.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/WPMGPRoSToTeMa/SafeNameAndChat">SafeNameAndChat</a><br><a href="https://github.com/WPMGPRoSToTeMa/SafeNameAndChat/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/WPMGPRoSToTeMa/SafeNameAndChat?include_prereleases&style=flat-square"></a><br><img src="https://img.shields.io/github/downloads/WPMGPRoSToTeMa/SafeNameAndChat/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>Metamod plugin that replaces special characters in player names and chat messages to prevent bugs. It swaps certain characters with similar Unicode alternatives, removes non-printable characters, and trims spaces from the start and end of text for improved safety and consistency. <a href="https://github.com/rehlds/rehlds/issues/328#issuecomment-275837883">Deprecated for ReHLDS since 2015</a></td>
+      <td>Metamod plugin that replaces special characters in player names and chat messages to prevent bugs. It swaps certain characters with similar Unicode alternatives, removes non-printable characters, and trims spaces from the start and end of text for improved safety and consistency. Works on both HLDS and ReHLDS, and is the <a href="https://github.com/rehlds/rehlds/issues/328#issuecomment-275837883">recommended replacement</a> for LocalizeBugFix and ReLocalizeBugFix.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/rehlds/relocalizebugfix">ReLocalizeBugFix</a><br><a href="https://github.com/rehlds/relocalizebugfix/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/rehlds/relocalizebugfix?include_prereleases&style=flat-square"></a><br><img src="https://img.shields.io/github/downloads/rehlds/relocalizebugfix/total?style=flat-square" alt="GitHub Releases"></td>
-      <td>An extension of LocalizeBugFix for ReHLDS, aimed at addressing localization-related bugs in the server, <a href="https://github.com/rehlds/rehlds/issues/328#issuecomment-275837883">deprecated since 2015</a>.</td>
+      <td>An extension of LocalizeBugFix for ReHLDS, aimed at addressing localization-related bugs in the server. <a href="https://github.com/rehlds/rehlds/issues/328#issuecomment-275837883">Deprecated since 2017</a> and incompatible with modern ReHLDS builds — use SafeNameAndChat instead.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/rehlds/hitboxtracker">HitBox Tracker</a><br><a href="https://github.com/rehlds/hitboxtracker/releases"><img alt="GitHub Release" src="https://img.shields.io/github/v/release/rehlds/hitboxtracker?include_prereleases&style=flat-square"></a><br><img src="https://img.shields.io/github/downloads/rehlds/hitboxtracker/total?style=flat-square" alt="GitHub Releases"></td>
@@ -80,6 +80,10 @@ Welcome to the official ReHLDS GitHub organization! We maintain and develop a fa
     </tr>
   </tbody>
 </table>
+
+## 📖 Documentation
+
+Full documentation for every project above lives at **[rehlds.dev](https://rehlds.dev)** — installation, settings, build instructions and credits for each one, available in [English](https://rehlds.dev/docs/), [Русский](https://rehlds.dev/ru/docs/) and [简体中文](https://rehlds.dev/zh-Hans/docs/).
 
 ## 🛠️ Key Features
 
